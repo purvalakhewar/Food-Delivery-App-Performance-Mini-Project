@@ -1,7 +1,9 @@
-# Food-Delivery-App-Performance-Mini-Project 📌 Project Overview
+# Food-Delivery-App-Performance-Mini-Project  
+
 
 <img width="1038" height="625" alt="Screenshot 2026-01-22 204811" src="https://github.com/user-attachments/assets/3eb13d08-cff6-44b4-a006-656ccab7d357" />
 
+📌 Project Overview
 
 This project contains a structured dataset of restaurants across different cities, focusing on cuisine types, customer ratings, and pricing levels. The dataset is suitable for data analysis, visualization, and dashboard projects using tools such as SQL, Excel, Power BI, or Tableau.
 
